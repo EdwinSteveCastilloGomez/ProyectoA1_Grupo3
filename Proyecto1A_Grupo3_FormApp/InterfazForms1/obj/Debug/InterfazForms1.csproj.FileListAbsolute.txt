@@ -1,0 +1,15 @@
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\bin\Debug\InterfazForms1.exe.config
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\bin\Debug\InterfazForms1.exe
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\bin\Debug\InterfazForms1.pdb
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\bin\Debug\BackendLibrary1.dll
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\bin\Debug\DataAcces.dll
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\bin\Debug\BackendLibrary1.pdb
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\bin\Debug\DataAcces.pdb
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\InterfazForms1.csproj.AssemblyReference.cache
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\InterfazForms1.Properties.Resources.resources
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\InterfazForms1.csproj.GenerateResource.cache
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\InterfazForms1.csproj.CoreCompileInputs.cache
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\Interfaz.7F0B4182.Up2Date
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\InterfazForms1.exe
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\InterfazForms1.pdb
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\InterfazForms1\obj\Debug\InterfazForms1.FormPrincipal.resources

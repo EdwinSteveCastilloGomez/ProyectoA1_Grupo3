@@ -1,0 +1,9 @@
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\bin\Debug\BackendLibrary1.dll
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\bin\Debug\BackendLibrary1.pdb
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\obj\Debug\DataAcces.csproj.AssemblyReference.cache
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\obj\Debug\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\obj\Debug\DataAcces.csproj.Up2Date
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\DataAcces\obj\Debug\DataAcces.pdb

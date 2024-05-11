@@ -1,0 +1,6 @@
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\BackendLibrary1\bin\Debug\BackendLibrary1.dll
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\BackendLibrary1\bin\Debug\BackendLibrary1.pdb
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\BackendLibrary1\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\BackendLibrary1\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\BackendLibrary1\obj\Debug\BackendLibrary1.dll
+C:\Users\Esste\Desktop\Proyecto1A_Grupo3_FormApp\BackendLibrary1\obj\Debug\BackendLibrary1.pdb

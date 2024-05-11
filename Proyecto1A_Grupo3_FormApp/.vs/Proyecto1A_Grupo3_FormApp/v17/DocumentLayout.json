@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FDCED2-E048-4D6B-93B8-63321A63C781}|InterfazForms1\\InterfazForms1.csproj|C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\interfazforms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9FDCED2-E048-4D6B-93B8-63321A63C781}|InterfazForms1\\InterfazForms1.csproj|solutionrelative:interfazforms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9BA726-E8FC-45F6-890F-1113311507FA}|DataAcces\\DataAcces.csproj|c:\\users\\esste\\desktop\\entrega_proyecto 1a_grupo3\\proyecto1a_grupo3_formapp\\dataacces\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9BA726-E8FC-45F6-890F-1113311507FA}|DataAcces\\DataAcces.csproj|solutionrelative:dataacces\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FDCED2-E048-4D6B-93B8-63321A63C781}|InterfazForms1\\InterfazForms1.csproj|C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\interfazforms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9FDCED2-E048-4D6B-93B8-63321A63C781}|InterfazForms1\\InterfazForms1.csproj|solutionrelative:interfazforms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48537D1-A409-41EB-8B78-E00928A4CF62}|BackendLibrary1\\Models.csproj|C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\backendlibrary1\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48537D1-A409-41EB-8B78-E00928A4CF62}|BackendLibrary1\\Models.csproj|solutionrelative:backendlibrary1\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48537D1-A409-41EB-8B78-E00928A4CF62}|BackendLibrary1\\Models.csproj|C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\backendlibrary1\\lugar_turistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48537D1-A409-41EB-8B78-E00928A4CF62}|BackendLibrary1\\Models.csproj|solutionrelative:backendlibrary1\\lugar_turistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48537D1-A409-41EB-8B78-E00928A4CF62}|BackendLibrary1\\Models.csproj|C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\backendlibrary1\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48537D1-A409-41EB-8B78-E00928A4CF62}|BackendLibrary1\\Models.csproj|solutionrelative:backendlibrary1\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\InterfazForms1\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazForms1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\InterfazForms1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazForms1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:11:43.813Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\InterfazForms1\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazForms1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\InterfazForms1\\Form1.cs",
+              "RelativeToolTip": "InterfazForms1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEBAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:12:38.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\DataAcces\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DataAcces\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\DataAcces\\DatabaseManager.cs",
+              "RelativeToolTip": "DataAcces\\DatabaseManager.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAANkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:24:23.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\BackendLibrary1\\Departamento.cs",
+              "RelativeDocumentMoniker": "BackendLibrary1\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\BackendLibrary1\\Departamento.cs",
+              "RelativeToolTip": "BackendLibrary1\\Departamento.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:40:33.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lugar_Turistico.cs",
+              "DocumentMoniker": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\BackendLibrary1\\Lugar_Turistico.cs",
+              "RelativeDocumentMoniker": "BackendLibrary1\\Lugar_Turistico.cs",
+              "ToolTip": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\BackendLibrary1\\Lugar_Turistico.cs",
+              "RelativeToolTip": "BackendLibrary1\\Lugar_Turistico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:04:51.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\BackendLibrary1\\Nodo.cs",
+              "RelativeDocumentMoniker": "BackendLibrary1\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Esste\\Desktop\\Entrega_proyecto 1A_Grupo3\\Proyecto1A_Grupo3_FormApp\\BackendLibrary1\\Nodo.cs",
+              "RelativeToolTip": "BackendLibrary1\\Nodo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:25:52.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
